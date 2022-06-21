@@ -1,0 +1,34 @@
+this._G=this._G||{};(function(_){var window=this;
+try{
+_.rib=function(a,b){return(0,_.C)(b?_.qib(a,b):_.I("Jd","",!1)(null,a))};
+_.H("Jd","",0,function(a,b){a="";var c='Publicamos os <a jsname="'+(_.L("zfkP9b")+'" href="" role="button" data-open-in-iframe="'+_.L("dvTNWc")+'">Termos de Servi\u00e7o do Google</a> para voc\u00ea entender mlehor nossos servi\u00e7os e saber o que esperar. Ao clicar em "Concordo", voc\u00ea aceita esses termos.');c=(0,_.J)(c);a+=_.V({id:"XFFfAjryY6A=",msg:c});a=""+_.S({text:(0,_.J)(a)},b);c="";var d=_.Y(new _.X("{VIEWER_GENDER,select, female{Voc\u00ea tamb\u00e9m concorda com os {START_LINK}Termos de Servi\u00e7o do Google Play{END_LINK} para ativar a detec\u00e7\u00e3o e o gerenciamento de apps.}male{Voc\u00ea tamb\u00e9m concorda com os {START_LINK}Termos de Servi\u00e7o do Google Play{END_LINK} para ativar a detec\u00e7\u00e3o e o gerenciamento de apps.}other{Voc\u00ea tamb\u00e9m concorda com os {START_LINK}Termos de Servi\u00e7o do Google Play{END_LINK} para ativar a detec\u00e7\u00e3o e o gerenciamento de apps.}}"),{VIEWER_GENDER:"other",
+START_LINK:'<a jsname="'+_.L("zfkP9b")+'" href="" role="button" data-open-in-iframe="'+_.L("DaaeSd")+'">',END_LINK:"</a>"});d=(0,_.J)(d);c+=_.V({id:"UpmUvzm8N0Y=",msg:d});a+=_.S({text:(0,_.J)(c)},b);c="";d='Lembre-se de que a <a jsname="'+(_.L("zfkP9b")+'" href="" role="button" data-open-in-iframe="'+_.L("EP6M6")+'">Pol\u00edtica de Privacidade</a> do Google descreve como s\u00e3o processadas as informa\u00e7\u00f5es geradas durante o uso dos nossos servi\u00e7os. Voc\u00ea pode acessar sua Conta do Google (account.google.com) sempre que quiser para fazer um Check-up de privacidade ou ajustar seus controles de privacidade.');
+d=(0,_.J)(d);c+=_.V({id:"R0MVauKaZ8Y=",msg:d});a+=_.S({text:(0,_.J)(c)},b);b=""+_.T({Nb:(0,_.pu)('tabindex="0"'),Fa:"q8bnUb",details:(0,_.J)(a)},b);return(0,_.C)(b)});
+_.qib=function(a,b,c){var d='tabindex="0" title="',e="Ao continuar, voc\u00ea concorda com os Termos de Servi\u00e7o e com a Pol\u00edtica de Privacidade em nome de "+_.L(b);d+=String(e).replace(_.ru,_.du);d+='"';e="";c?(b="Para adicionar "+_.D(b)+' a este dispositivo, primeiro concorde com a <a jsname="'+(_.L("zfkP9b")+'" href="" role="button" data-open-in-iframe="'+_.L("EP6M6")+'">Pol\u00edtica de Privacidade</a> e os <a jsname="')+(_.L("zfkP9b")+'" href="" role="button" data-open-in-iframe="'+
+_.L("dvTNWc")+'">Termos de Servi\u00e7o</a> <span>em nome de ')+_.Lu(_.D(c))+".</span>",e+=b):(b="Para adicionar "+_.D(b)+' a este dispositivo, primeiro concorde com a <a jsname="'+(_.L("zfkP9b")+'" href="" role="button" data-open-in-iframe="'+_.L("EP6M6")+'">Pol\u00edtica de Privacidade</a> e os <a jsname="')+(_.L("zfkP9b")+'" href="" role="button" data-open-in-iframe="'+_.L("dvTNWc")+'">Termos de Servi\u00e7o</a> <span>em nome da crian\u00e7a.</span>'),e+=b);e+=_.I("Kd","",!1)({Yb:void 0,EB:c},
+a);c=""+_.S({text:(0,_.J)(e)},a);a=""+_.T({Fa:"q8bnUb",Nb:(0,_.pu)(d),details:(0,_.J)(c)},a);return(0,_.C)(a)};
+_.H("Kd","",0,function(a,b){a=a||{};var c=a.Yb,d=a.EB;a=_.C;var e=(0,_.J)(""+_.WH({name:"info"},b)),f="";c=null!=c?c:"";d?(c=_.Y(new _.X("{CHILD_GENDER,select, female{Com o app Family Link, a {CHILD_NAME_TO_DISPLAY} v\u00ea os recursos e controles que voc\u00ea definiu para ela}male{Com o app Family Link, o {CHILD_NAME_TO_DISPLAY} v\u00ea os recursos e controles que voc\u00ea definiu para ele}other{Com o app Family Link, {CHILD_NAME_TO_DISPLAY} v\u00ea os recursos e controles definidos por voc\u00ea}}"),{CHILD_GENDER:c,
+CHILD_NAME_TO_DISPLAY:d}),f+=c):(c=_.Y(new _.X("{CHILD_GENDER,select, female{Com o app Family Link, sua filha v\u00ea os recursos e controles que voc\u00ea definiu para ela}male{Com o app Family Link, seu filho v\u00ea os recursos e controles que voc\u00ea definiu para ele}other{Com o app Family Link, a crian\u00e7a v\u00ea os recursos e controles definidos por voc\u00ea}}"),{CHILD_GENDER:c}),f+=c);return a(_.XH({items:(0,_.J)(""+_.YH({text:"O Family Link ser\u00e1 instalado neste dispositivo",icon:e,
+mi:f},b))},b))});
+
+}catch(e){_._DumpException(e)}
+try{
+var yrb=function(a){_.A.call(this,a,-1,xrb)};_.x(yrb,_.A);var xrb=[5];yrb.ub="gf.siesic";
+var zrb=_.N("iypZne",[_.BQ,_.kI,_.TH,_.VP,_.IE,_.UH]);
+var t4=function(a){_.Z.call(this,a.Da);this.Ba=a.model.signIn;this.ta=a.ia.Fc;this.ja=a.ia.request;this.ha=a.ia.Ld;this.Pa=a.ia.jj;this.ea=!1};_.x(t4,_.Z);t4.ra=function(){return{model:{signIn:_.lI},ia:{Ld:_.aI,Fc:_.YP,request:_.IF,jj:_.cI}}};t4.prototype.render=function(){_.Z.prototype.Ta.call(this);_.bI(this.ha,this.wa())};
+var Arb=function(a,b){if(!a.ea){a.ea=!0;b=_.JF(a.ja,"/_/signin/speedbump/embeddedsigninconsent",b,_.Bq);var c=_.Dh("thykhd");c.aa()&&_.qx(b,{ardt:c});b=_.KF(a.ja,b);_.ve(b,function(d){this.ea=!1;_.ZP(this.ta,this.Ma(),this.Ba,d)},a);_.rx(b,function(){this.ea=!1;_.R(this.Ga(),"info/unknownerror")},a)}};t4.prototype.nt=function(){this.Ra();var a=new yrb;a=_.k(a,1,1);a=_.k(a,4,"default");a=_.k(a,3,_.YG(this.Ma()));a=_.k(a,2,_.XG(this.Ma()));var b=_.ER(this.ha);a=_.vk(a,5,b);Arb(this,a)};
+t4.prototype.yt=function(a){_.HR(this.fa,a.aa,{We:_.XG(this.Ma()),locale:_.YG(this.Ma())},this);_.bI(this.ha,this.wa().Ea())};t4.prototype.Zy=function(){this.Pa.jj(this.da,this,!0)};_.P(t4.prototype,"q86U3e",function(){return this.Zy});_.P(t4.prototype,"AnAMAf",function(){return this.yt});_.P(t4.prototype,"xFj02",function(){return this.nt});_.P(t4.prototype,"rcuQ6b",function(){return this.render});_.Q(zrb,t4);
+
+}catch(e){_._DumpException(e)}
+try{
+_.r("signinconsent");
+
+_.GFa.aa({template:function(a,b){a=a.Xa;var c="",d=_.Vq(a.Ca);d=null==d?null:d.Ec();var e=_.Vq(a.Ca);e=null==e?null:_.rm(e);c+=_.NQ({Qa:"tHU55c",Na:"iypZne",Wa:"click:AnAMAf(preventDefault=true|zfkP9b);eyyw5c:q86U3e;jiqeKb:xFj02;u3KAb:xFj02;rcuQ6b:rcuQ6b",content:(0,_.J)(""+_.OQ({ka:a.ka,yd:_.Hu("consent"),Rc:{Rb:null!=d?d:"",identifier:null!=e?e:""},title:(0,_.J)(""+_.D(_.tV(b,a.Ca))),cb:(0,_.J)(""+_.T({details:(0,_.J)(""+_.rib(b))},b)),Ua:"Concordo",Bb:"signinconsentNext",qh:"F7TABF8fS3E=",Sb:a.ka.fa()?
+"N\u00e3o adicionar esta conta agora":"",UQ:a.ka.fa()?"BKj-0xNYQPI=":""},b))},b);return(0,_.C)(c)},Va:_.XQ({Xa:_.eR}),title:"ignore"});
+
+
+_.u();
+
+}catch(e){_._DumpException(e)}
+})(this._G);
+// Google Inc.

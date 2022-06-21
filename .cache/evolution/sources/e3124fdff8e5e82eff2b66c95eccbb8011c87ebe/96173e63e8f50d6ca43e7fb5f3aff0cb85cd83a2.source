@@ -1,0 +1,35 @@
+[Data Source]
+DisplayName=Address Book
+Enabled=true
+Parent=e3124fdff8e5e82eff2b66c95eccbb8011c87ebe
+
+[Authentication]
+Host=www.googleapis.com
+Method=OAuth2
+Port=443
+ProxyUid=system-proxy
+RememberPassword=true
+User=roberlanderrsilva@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=tls
+
+[Resource]
+Identity=contacts::https://www.googleapis.com/carddav/v1/principals/roberlanderrsilva@gmail.com/lists/default/
+
+[WebDAV Backend]
+AvoidIfmatch=false
+CalendarAutoSchedule=false
+Color=
+DisplayName=Address Book
+EmailAddress=
+ResourcePath=/carddav/v1/principals/roberlanderrsilva@gmail.com/lists/default/
+ResourceQuery=
+SslTrust=
+Order=4294967295
+
+[Address Book]
+BackendName=carddav
+Order=0
